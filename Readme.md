@@ -24,3 +24,4 @@ For trajectory, we have picked two different approaches.
 
 Result shows the smooth transition of the Planar2 robot on the created trajectory and even between two words. The image of the robot throughout the following are given bellow and the video link of the full implementation is attached and the code is explained as well.
 
+[![WATCH VIDEO](https://img.youtube.com/vi/Bhq7O_SlJbU/0.jpg)](https://www.youtube.com/watch?v=Bhq7O_SlJbU)
